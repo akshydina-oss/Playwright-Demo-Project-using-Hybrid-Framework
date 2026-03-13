@@ -1,0 +1,410 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - heading "Top categories close" [level=5] [ref=e4]:
+        - text: Top categories
+        - link "close" [ref=e5] [cursor=pointer]:
+          - /url: "#mz-component-1626147655"
+          - text: 
+      - navigation [ref=e8]:
+        - list [ref=e10]:
+          - listitem [ref=e11]:
+            - link "Components" [ref=e12] [cursor=pointer]:
+              - /url: https://ecommerce-playground.lambdatest.io/index.php?route=product/category&path=25
+              - img [ref=e14]
+              - generic [ref=e17]: Components
+          - listitem [ref=e18]:
+            - link "Cameras" [ref=e19] [cursor=pointer]:
+              - /url: https://ecommerce-playground.lambdatest.io/index.php?route=product/category&path=33
+              - img [ref=e21]
+              - generic [ref=e24]: Cameras
+          - listitem [ref=e25]:
+            - link "Phone, Tablets & Ipod" [ref=e26] [cursor=pointer]:
+              - /url: https://ecommerce-playground.lambdatest.io/index.php?route=product/category&path=57
+              - img [ref=e28]
+              - generic [ref=e31]: Phone, Tablets & Ipod
+          - listitem [ref=e32]:
+            - link "Software" [ref=e33] [cursor=pointer]:
+              - /url: https://ecommerce-playground.lambdatest.io/index.php?route=product/category&path=17
+              - img [ref=e35]
+              - generic [ref=e38]: Software
+          - listitem [ref=e39]:
+            - link "MP3 Players" [ref=e40] [cursor=pointer]:
+              - /url: https://ecommerce-playground.lambdatest.io/index.php?route=product/category&path=34
+              - img [ref=e42]
+              - generic [ref=e45]: MP3 Players
+          - listitem [ref=e46]:
+            - link "Laptops & Notebooks" [ref=e47] [cursor=pointer]:
+              - /url: https://ecommerce-playground.lambdatest.io/index.php?route=product/category&path=18
+              - img [ref=e49]
+              - generic [ref=e52]: Laptops & Notebooks
+          - listitem [ref=e53]:
+            - link "Desktops and Monitors" [ref=e54] [cursor=pointer]:
+              - /url: https://ecommerce-playground.lambdatest.io/index.php?route=product/category&path=28
+              - img [ref=e56]
+              - generic [ref=e59]: Desktops and Monitors
+          - listitem [ref=e60]:
+            - link "Printers & Scanners" [ref=e61] [cursor=pointer]:
+              - /url: https://ecommerce-playground.lambdatest.io/index.php?route=product/category&path=30
+              - img [ref=e63]
+              - generic [ref=e66]: Printers & Scanners
+          - listitem [ref=e67]:
+            - link "Mice and Trackballs" [ref=e68] [cursor=pointer]:
+              - /url: https://ecommerce-playground.lambdatest.io/index.php?route=product/category&path=29
+              - img [ref=e70]
+              - generic [ref=e73]: Mice and Trackballs
+          - listitem [ref=e74]:
+            - link "Fashion and Accessories" [ref=e75] [cursor=pointer]:
+              - /url: ""
+              - img [ref=e77]
+              - generic [ref=e80]: Fashion and Accessories
+          - listitem [ref=e81]:
+            - link "Beauty and Saloon" [ref=e82] [cursor=pointer]:
+              - /url: ""
+              - img [ref=e84]
+              - generic [ref=e87]: Beauty and Saloon
+          - listitem [ref=e88]:
+            - link "Autoparts and Accessories" [ref=e89] [cursor=pointer]:
+              - /url: ""
+              - img [ref=e91]
+              - generic [ref=e94]: Autoparts and Accessories
+          - listitem [ref=e95]:
+            - link "Washing machine" [ref=e96] [cursor=pointer]:
+              - /url: ""
+              - img [ref=e98]
+              - generic [ref=e101]: Washing machine
+          - listitem [ref=e102]:
+            - link "Gaming consoles" [ref=e103] [cursor=pointer]:
+              - /url: ""
+              - img [ref=e105]
+              - generic [ref=e108]: Gaming consoles
+          - listitem [ref=e109]:
+            - link "Air conditioner" [ref=e110] [cursor=pointer]:
+              - /url: ""
+              - img [ref=e112]
+              - generic [ref=e115]: Air conditioner
+          - listitem [ref=e116]:
+            - link "Web Cameras" [ref=e117] [cursor=pointer]:
+              - /url: https://ecommerce-playground.lambdatest.io/index.php?route=product/category&path=32
+              - img [ref=e119]
+              - generic [ref=e122]: Web Cameras
+    - generic [ref=e123]:
+      - heading "Quick Links close" [level=5] [ref=e124]:
+        - text: Quick Links
+        - link "close" [ref=e125] [cursor=pointer]:
+          - /url: "#mz-component-162614767"
+          - text: 
+      - generic [ref=e126]:
+        - navigation [ref=e128]:
+          - list [ref=e130]:
+            - listitem [ref=e131]:
+              - link " Special Hot" [ref=e132] [cursor=pointer]:
+                - /url: https://ecommerce-playground.lambdatest.io/index.php?route=product/special
+                - generic [ref=e133]: 
+                - generic [ref=e135]: Special
+                - generic [ref=e136]: Hot
+            - listitem [ref=e137]:
+              - link " Wishlist" [ref=e138] [cursor=pointer]:
+                - /url: https://ecommerce-playground.lambdatest.io/index.php?route=account/wishlist
+                - generic [ref=e139]: 
+                - generic [ref=e141]: Wishlist
+            - listitem [ref=e142]:
+              - link " Compare" [ref=e143] [cursor=pointer]:
+                - /url: https://ecommerce-playground.lambdatest.io/index.php?route=product/compare
+                - generic [ref=e144]: 
+                - generic [ref=e146]: Compare
+            - listitem [ref=e147]:
+              - link " My account" [ref=e148] [cursor=pointer]:
+                - /url: https://ecommerce-playground.lambdatest.io/index.php?route=account/account
+                - generic [ref=e149]: 
+                - generic [ref=e151]: My account
+            - listitem [ref=e152]:
+              - link " Blog" [ref=e153] [cursor=pointer]:
+                - /url: https://ecommerce-playground.lambdatest.io/index.php?route=extension/maza/blog/home
+                - generic [ref=e154]: 
+                - generic [ref=e156]: Blog
+            - listitem [ref=e157]:
+              - link " Tracking" [ref=e158] [cursor=pointer]:
+                - /url: https://ecommerce-playground.lambdatest.io/index.php?route=information/tracking
+                - generic [ref=e159]: 
+                - generic [ref=e161]: Tracking
+            - listitem [ref=e162]:
+              - link " Contact us" [ref=e163] [cursor=pointer]:
+                - /url: https://ecommerce-playground.lambdatest.io/index.php?route=information/contact
+                - generic [ref=e164]: 
+                - generic [ref=e166]: Contact us
+        - separator [ref=e168]
+        - paragraph [ref=e171]: Place here any module, widget, design or HTML. for example menu, categories
+    - generic [ref=e172]:
+      - heading "Cart close" [level=5] [ref=e173]:
+        - text: Cart
+        - link "close" [ref=e174] [cursor=pointer]:
+          - /url: "#cart-total-drawer"
+          - text: 
+      - generic [ref=e175]:
+        - generic [ref=e176]:
+          - paragraph [ref=e177]: Your shopping cart is empty!
+          - table [ref=e178]:
+            - rowgroup [ref=e179]:
+              - 'row "Sub-Total: $0.00" [ref=e180]':
+                - cell "Sub-Total:" [ref=e181]
+                - cell "$0.00" [ref=e182]:
+                  - strong [ref=e183]: $0.00
+              - 'row "Total: $0.00" [ref=e184]':
+                - cell "Total:" [ref=e185]
+                - cell "$0.00" [ref=e186]:
+                  - strong [ref=e187]: $0.00
+        - generic [ref=e189]:
+          - button " Edit cart" [ref=e191] [cursor=pointer]:
+            - generic [ref=e192]: 
+            - text: Edit cart
+          - button " Checkout" [ref=e194] [cursor=pointer]:
+            - generic [ref=e195]: 
+            - text: Checkout
+    - text: 
+    - generic:    
+    - text:  
+    - generic [ref=e196]:
+      - banner [ref=e197]:
+        - button "" [ref=e199] [cursor=pointer]:
+          - generic [ref=e200]: 
+        - generic [ref=e201]:
+          - generic [ref=e202]:
+            - figure [ref=e204]:
+              - link "Poco Electro" [ref=e205] [cursor=pointer]:
+                - /url: https://ecommerce-playground.lambdatest.io/index.php?route=common/home
+                - img "Poco Electro" [ref=e206]
+            - generic [ref=e210]:
+              - generic [ref=e212]:
+                - button "All Categories" [ref=e214] [cursor=pointer]
+                - textbox "Search For Products" [ref=e216]
+              - button "Search" [ref=e218] [cursor=pointer]
+            - link "Compare" [ref=e220] [cursor=pointer]:
+              - /url: https://ecommerce-playground.lambdatest.io/index.php?route=product/compare
+              - generic "Compare" [ref=e221]:
+                - img [ref=e222]
+            - link "Wishlist" [ref=e225] [cursor=pointer]:
+              - /url: https://ecommerce-playground.lambdatest.io/index.php?route=account/wishlist
+              - generic "Wishlist" [ref=e226]:
+                - img [ref=e227]
+            - button "0" [ref=e230] [cursor=pointer]:
+              - generic [ref=e231]:
+                - img [ref=e233]
+                - generic [ref=e235]: "0"
+          - text: 
+        - generic [ref=e236]:
+          - generic [ref=e238] [cursor=pointer]:
+            - button "Shop by Category" [ref=e240]:
+              - img [ref=e242]
+              - text: Shop by Category
+            - navigation [ref=e245]:
+              - list [ref=e247]:
+                - listitem [ref=e248]:
+                  - link "Home" [ref=e249]:
+                    - /url: https://ecommerce-playground.lambdatest.io/index.php?route=common/home
+                    - generic [ref=e251]: Home
+                - listitem [ref=e252]:
+                  - link "Special Hot" [ref=e253]:
+                    - /url: https://ecommerce-playground.lambdatest.io/index.php?route=product/special
+                    - generic [ref=e255]: Special
+                    - generic [ref=e256]: Hot
+                - listitem [ref=e257]:
+                  - link "Blog" [ref=e258]:
+                    - /url: https://ecommerce-playground.lambdatest.io/index.php?route=extension/maza/blog/home
+                    - generic [ref=e260]: Blog
+                - listitem [ref=e261]:
+                  - button "Mega Menu" [ref=e262]:
+                    - generic [ref=e264]: Mega Menu
+                - listitem [ref=e265]:
+                  - button "AddOns Featured" [ref=e266]:
+                    - generic [ref=e268]: AddOns
+                    - generic [ref=e269]: Featured
+                - listitem [ref=e270]:
+                  - button " My account" [ref=e271]:
+                    - generic [ref=e272]: 
+                    - generic [ref=e274]: My account
+          - text:  
+          - paragraph [ref=e277]:
+            - strong [ref=e278]: This is a dummy website for Web Automation Testing
+      - generic [ref=e279]:
+        - figure [ref=e283]:
+          - link "Apple Cinema 30\"" [ref=e284] [cursor=pointer]:
+            - /url: https://ecommerce-playground.lambdatest.io/index.php?route=product/product&product_id=42
+            - img "Apple Cinema 30\"" [ref=e285]
+        - generic [ref=e287]:
+          - navigation "breadcrumb" [ref=e289]:
+            - list [ref=e290]:
+              - listitem [ref=e291]:
+                - link "Home" [ref=e292] [cursor=pointer]:
+                  - /url: https://ecommerce-playground.lambdatest.io/index.php?route=common/home
+                  - generic [ref=e293]: 
+              - listitem [ref=e294]:
+                - text: /
+                - link "Software" [ref=e295] [cursor=pointer]:
+                  - /url: https://ecommerce-playground.lambdatest.io/index.php?route=product/category&path=17
+              - listitem [ref=e296]: / HTC Touch HD
+          - generic [ref=e297]:
+            - generic [ref=e298]:
+              - generic [ref=e300]:
+                - generic [ref=e301]:
+                  - button "" [ref=e302] [cursor=pointer]:
+                    - text: 
+                    - generic [ref=e303]: 
+                  - link "HTC Touch HD" [ref=e304] [cursor=pointer]:
+                    - /url: https://ecommerce-playground.lambdatest.io/image/cache/catalog/maza/demo/mz_poco/megastore-2/product/1-500x500.webp
+                    - img "HTC Touch HD" [ref=e305]
+                - generic [ref=e307]:
+                  - generic [ref=e308]:
+                    - group "1 / 4" [ref=e309]:
+                      - link "HTC Touch HD" [ref=e310] [cursor=pointer]:
+                        - /url: https://ecommerce-playground.lambdatest.io/image/cache/catalog/maza/demo/mz_poco/megastore-2/product/7-500x500.webp
+                        - img "HTC Touch HD" [ref=e311]
+                    - group "2 / 4" [ref=e312]:
+                      - link "HTC Touch HD" [ref=e313] [cursor=pointer]:
+                        - /url: https://ecommerce-playground.lambdatest.io/image/cache/catalog/maza/demo/mz_poco/megastore-2/product/6-500x500.webp
+                        - img "HTC Touch HD" [ref=e314]
+                    - group "3 / 4" [ref=e315]:
+                      - link "HTC Touch HD" [ref=e316] [cursor=pointer]:
+                        - /url: https://ecommerce-playground.lambdatest.io/image/cache/catalog/maza/demo/mz_poco/megastore-2/product/8-500x500.webp
+                        - img "HTC Touch HD" [ref=e317]
+                    - group "4 / 4" [ref=e318]:
+                      - link "HTC Touch HD" [ref=e319] [cursor=pointer]:
+                        - /url: https://ecommerce-playground.lambdatest.io/image/cache/catalog/maza/demo/mz_poco/megastore-2/product/3-500x500.webp
+                        - img "HTC Touch HD" [ref=e320]
+                  - text:    
+              - text:      
+              - generic [ref=e321]:
+                - tablist [ref=e324]:
+                  - listitem [ref=e325]:
+                    - tab "Description" [selected] [ref=e326] [cursor=pointer]
+                  - listitem [ref=e327]:
+                    - tab "Reviews" [ref=e328] [cursor=pointer]
+                  - listitem [ref=e329]:
+                    - tab "Custom" [ref=e330] [cursor=pointer]
+                - generic [ref=e334]:
+                  - paragraph [ref=e335]: HTC Touch - in High Definition. Watch music videos and streaming content in awe-inspiring high definition clarity for a mobile experience you never thought possible. Seductively sleek, the HTC Touch HD provides the next generation of mobile functionality, all at a simple touch. Fully integrated with Windows Mobile Professional 6.1, ultrafast 3.5G, GPS, 5MP camera, plus lots more - all delivered on a breathtakingly crisp 3.8" WVGA touchscreen - you can take control of your mobile world with the HTC Touch HD.
+                  - paragraph [ref=e336]:
+                    - strong [ref=e337]: Features
+                  - list [ref=e338]:
+                    - listitem [ref=e339]: Processor Qualcomm® MSM 7201A™ 528 MHz
+                    - listitem [ref=e340]: Windows Mobile® 6.1 Professional Operating System
+                    - listitem [ref=e341]: "Memory: 512 MB ROM, 288 MB RAM"
+                    - listitem [ref=e342]: "Dimensions: 115 mm x 62.8 mm x 12 mm / 146.4 grams"
+                    - listitem [ref=e343]: 3.8-inch TFT-LCD flat touch-sensitive screen with 480 x 800 WVGA resolution
+                    - listitem [ref=e344]: "HSDPA/WCDMA: Europe/Asia: 900/2100 MHz; Up to 2 Mbps up-link and 7.2 Mbps down-link speeds"
+                    - listitem [ref=e345]: "Quad-band GSM/GPRS/EDGE: Europe/Asia: 850/900/1800/1900 MHz (Band frequency, HSUPA availability, and data speed are operator dependent.)"
+                    - listitem [ref=e346]: Device Control via HTC TouchFLO™ 3D & Touch-sensitive front panel buttons
+                    - listitem [ref=e347]: GPS and A-GPS ready
+                    - listitem [ref=e348]: Bluetooth® 2.0 with Enhanced Data Rate and A2DP for wireless stereo headsets
+                    - listitem [ref=e349]: "Wi-Fi®: IEEE 802.11 b/g"
+                    - listitem [ref=e350]: HTC ExtUSB™ (11-pin mini-USB 2.0)
+                    - listitem [ref=e351]: 5 megapixel color camera with auto focus
+                    - listitem [ref=e352]: VGA CMOS color camera
+                    - listitem [ref=e353]: Built-in 3.5 mm audio jack, microphone, speaker, and FM radio
+                    - listitem [ref=e354]: "Ring tone formats: AAC, AAC+, eAAC+, AMR-NB, AMR-WB, QCP, MP3, WMA, WAV"
+                    - listitem [ref=e355]: 40 polyphonic and standard MIDI format 0 and 1 (SMF)/SP MIDI
+                    - listitem [ref=e356]: Rechargeable Lithium-ion or Lithium-ion polymer 1350 mAh battery
+                    - listitem [ref=e357]: "Expansion Slot: microSD™ memory card (SD 2.0 compatible)"
+                    - listitem [ref=e358]: "AC Adapter Voltage range/frequency: 100 ~ 240V AC, 50/60 Hz DC output: 5V and 1A"
+                    - listitem [ref=e359]: "Special Features: FM Radio, G-Sensor"
+                  - link " Read more" [ref=e361] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=e362]: 
+                    - text: Read more
+            - generic [ref=e363]:
+              - heading "HTC Touch HD" [level=1] [ref=e365]
+              - list [ref=e369]:
+                - listitem [ref=e370]: "Product Code: Product 1"
+              - separator [ref=e372]
+              - list [ref=e376]:
+                - listitem [ref=e377]:
+                  - text: "Brand:"
+                  - link "HTC" [ref=e378] [cursor=pointer]:
+                    - /url: https://ecommerce-playground.lambdatest.io/index.php?route=product/manufacturer/info&manufacturer_id=5
+                - listitem [ref=e379]: "Viewed: 132568"
+                - listitem [ref=e380]: "Reward Points: 400"
+                - listitem [ref=e381]:
+                  - text: "Availability:"
+                  - generic [ref=e382]: Out Of Stock
+              - separator [ref=e384]
+              - generic [ref=e389]:
+                - heading "$146.00" [level=3] [ref=e390]
+                - generic [ref=e392] [cursor=pointer]: 
+              - generic [ref=e394]:
+                - generic [ref=e396]:
+                  - generic [ref=e398] [cursor=pointer]:
+                    - button "Decrease quantity" [ref=e400]:
+                      - generic [ref=e401]: 
+                    - spinbutton "Qty" [ref=e402]: "1"
+                    - button "Increase quantity" [ref=e404]:
+                      - generic [ref=e405]: 
+                  - button "Out Of Stock" [disabled] [ref=e407]
+                  - button "Out Of Stock" [disabled] [ref=e409]
+                - button " Compare this Product" [ref=e411] [cursor=pointer]:
+                  - generic [ref=e412]:
+                    - generic [ref=e413]: 
+                    - text: 
+                  - text: Compare this Product
+              - generic [ref=e415]:
+                - button "Size chart" [ref=e417] [cursor=pointer]:
+                  - generic [ref=e418]: 
+                  - text: Size chart
+                - button "Popup" [ref=e420] [cursor=pointer]:
+                  - generic [ref=e421]: 
+                  - text: Popup
+                - button "Ask Question" [ref=e423] [cursor=pointer]:
+                  - generic [ref=e424]: 
+                  - text: Ask Question
+              - separator [ref=e426]
+              - generic [ref=e428]:
+                - generic [ref=e430]:
+                  - img [ref=e432]
+                  - heading "Online payment" [level=5] [ref=e438]
+                - generic [ref=e440]:
+                  - img [ref=e442]
+                  - heading "Easy Return" [level=5] [ref=e447]
+                - generic [ref=e449]:
+                  - img [ref=e451]
+                  - heading "24x7 Service" [level=5] [ref=e458]
+              - generic [ref=e460]:
+                - generic [ref=e461]:
+                  - generic [ref=e462]: 0/50 reviews
+                  - generic [ref=e463]:
+                    - generic [ref=e464] [cursor=pointer]: ★ 5
+                    - generic [ref=e465] [cursor=pointer]: ★ 4
+                    - generic [ref=e466] [cursor=pointer]: ★ 3
+                    - generic [ref=e467] [cursor=pointer]: ★ 2
+                    - generic [ref=e468] [cursor=pointer]: ★ 1
+                    - generic [ref=e469] [cursor=pointer]: ★ 0
+                - heading "Write a review" [level=5] [ref=e470]
+                - textbox "Your Name" [ref=e472]
+                - textbox "Your Review" [ref=e474]
+                - button "Write Review" [ref=e477] [cursor=pointer]
+        - generic [ref=e480]:
+          - heading "FAQ (Frequently Asked Questions)" [level=3] [ref=e481]
+          - generic [ref=e482]:
+            - heading "How can I change my shipping address? " [level=5] [ref=e485] [cursor=pointer]:
+              - generic [ref=e486]: How can I change my shipping address?
+              - generic [ref=e487]: 
+            - heading "How can I change my shipping address? " [level=5] [ref=e490] [cursor=pointer]:
+              - generic [ref=e491]: How can I change my shipping address?
+              - generic [ref=e492]: 
+            - heading "How do I activate my account? " [level=5] [ref=e495] [cursor=pointer]:
+              - generic [ref=e496]: How do I activate my account?
+              - generic [ref=e497]: 
+            - heading "What do you mean by points? How do I earn it? " [level=5] [ref=e500] [cursor=pointer]:
+              - generic [ref=e501]: What do you mean by points? How do I earn it?
+              - generic [ref=e502]: 
+            - heading "Why is there a checkout limit? / What are all the checkout limits? " [level=5] [ref=e505] [cursor=pointer]:
+              - generic [ref=e506]: Why is there a checkout limit? / What are all the checkout limits?
+              - generic [ref=e507]: 
+            - heading "Why must I make payment immediately at checkout? " [level=5] [ref=e510] [cursor=pointer]:
+              - generic [ref=e511]: Why must I make payment immediately at checkout?
+              - generic [ref=e512]: 
+      - contentinfo [ref=e513]:
+        - paragraph [ref=e519]: © LambdaTest - Powered by OpenCart
+  - text:  
+```

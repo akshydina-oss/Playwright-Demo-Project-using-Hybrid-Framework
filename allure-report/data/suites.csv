@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","15708","Search for iPhone","chromium","2026-03-12","passed","2026-03-12","Smoke Test Suite","smoke test.spec.ts","",""
+"","18493","Select Software from Category","chromium","2026-03-12","passed","2026-03-12","Smoke Test Suite","smoke test.spec.ts","",""
+"","21192","Search for iPhone","webkit","2026-03-12","passed","2026-03-12","Smoke Test Suite","smoke test.spec.ts","",""
+"","22738","Select Software from Category","webkit","2026-03-12","passed","2026-03-12","Smoke Test Suite","smoke test.spec.ts","",""
+"","24097","Select Software from Category","firefox","2026-03-12","passed","2026-03-12","Smoke Test Suite","smoke test.spec.ts","",""
+"","22016","Search for iPhone","firefox","2026-03-12","passed","2026-03-12","Smoke Test Suite","smoke test.spec.ts","",""
